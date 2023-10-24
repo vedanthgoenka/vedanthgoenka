@@ -1,0 +1,96 @@
+.top-container{
+    display:flex;
+    background-color: #4169E1;
+    justify-content: centeleft;
+    height: 40vh;
+    
+/*fix padding issue*/
+    
+}
+.prof-img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+img{
+    height: 40vh;
+    justify-content: left;
+    padding-right: 20px;
+}
+.profile{
+    padding-top: 50px;
+}
+.header1{
+    font-family: 'Tilt Neon', sans-serif;
+    font-size: 20px;
+}
+.header2{
+    font-family:'Exo 2', sans-serif;
+}
+.sub-headings{
+    display: flex;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: x-large;
+    color:	#6495ED;
+    background-color: black;
+}
+.list-items{
+    font-size: x-large;
+    font-family: 'Playfair Display', serif;
+}
+.pt1{
+    display: flex;
+    justify-content: center;
+}
+.pt2{
+    display: flex;
+    justify-content: center;
+}
+.pt3{
+    display: flex;
+    justify-content: center;
+}
+.pt4{
+    display: flex;
+    justify-content: center;
+}
+.sub-images{
+    display: flex;
+    justify-content: center;
+}
+.hobbies{
+    display: inline-block;
+    font-family: 'Playfair Display', serif;
+    font-size:40px;
+}
+.hobs{
+    float: left;
+}
+.hob1{
+    float: left;
+    margin: 50px;
+}
+.hob2{
+    float: left;
+    margin: 50px;
+}
+.hob3{
+    float: left;
+    margin: 50px;
+}
+.bottom-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    background-color: #4169E1;
+    height: 80px;
+}
+.link{
+    padding: 10px 10px 10px 10px;
+    font-family: "Montserrat", sans-serif;
+    color:black;
+}
+
+
+
